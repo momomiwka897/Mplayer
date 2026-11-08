@@ -213,4 +213,4 @@ MPlayer is offered as a full free version with all features and updates included
 Take your multimedia experience to the next level with MPlayer! Download now and enjoy the freedom of playback!
 
 ---
-**Last updated:** 2026-11-08 08:31:10 UTC
+**Last updated:** 2026-11-08 15:44:58 UTC
